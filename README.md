@@ -1,13 +1,6 @@
 ### Olá, Pessoal! 👋 BEM-VINDOS ao meu perfil do GitHub
   Aqui é Juferreiradev, tenho 30 anos e sou iniciante no mundo do programação. Cada passo que eu me envolvo, mais eu me apaixono por isso ❤️ 
 
-  
-
-<!--
-**juferreiradev/juferreiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 - 🔭 Atualmente estou trabalhando como auxiliar admnistrativo em um Hospital da minha cidade 
 - 💻 Atualmente estou cursando tecnólogo em Análise e Desenvolvimento de sistemas pela Universidade Anhembi Morumbi
 - 🌱 Atualmente estou aprendendo HTML, CSS e Flexbox
