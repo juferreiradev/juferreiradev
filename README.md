@@ -1,7 +1,6 @@
 ### Olá, Pessoal! 👋 BEM-VINDOS ao meu perfil do GitHub
   Aqui é Juferreiradev, tenho 30 anos e sou iniciante no mundo do programação. Cada passo que eu me envolvo, mais eu me apaixono por isso ❤️ 
 
-<div class="tenor-gif-embed" data-postid="9811803164280522639" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/bills-ugh-gif-9811803164280522639">Bills Ugh GIF</a>from <a href="https://tenor.com/search/bills+ugh-gifs">Bills Ugh GIFs</a></div> 
 
 - 🔭 Atualmente estou trabalhando como auxiliar admnistrativo em um Hospital da minha cidade 
 - 💻 Atualmente estou cursando tecnólogo em Análise e Desenvolvimento de sistemas pela Universidade Anhembi Morumbi
