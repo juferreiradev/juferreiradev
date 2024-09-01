@@ -1,12 +1,12 @@
 ### Olá, Pessoal! 👋 BEM-VINDOS ao meu perfil do GitHub
-  Aqui é Juferreiradev, tenho 30 anos e sou iniciante no mundo do programação. Cada passo que eu me envolvo, mais eu me apaixono por isso ❤️ 
+  Aqui é Juferreiradev, tenho 31 anos e sou iniciante no mundo do programação. Cada passo que eu me envolvo, mais eu me apaixono por isso ❤️ 
 
 
-- 🔭 Atualmente estou trabalhando como auxiliar admnistrativo em um Hospital da minha cidade 
+- 🔭 Atualmente estou trabalhando como auxiliar de reuglação em um Hospital da prefeitura da minha cidade da minha cidade 
 - 💻 Atualmente estou cursando tecnólogo em Análise e Desenvolvimento de sistemas pela Universidade Anhembi Morumbi
-- 🌱 Atualmente estou aprendendo HTML, CSS e Flexbox
+- 🌱 Atualmente estou aprendendo Lógica de programação e algoritmos, HTML5, CSS e Flexbox.
 - 🎓 Cursos que já realizei:  Lógica de programação: comece em lógica com o jogo Pong e JavaScript, Lógica de programação: laços e listas com JavaScript, Arquitetura de computadores: por trás de como seu programa funciona, HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags e HTML e CSS: Classes, posicionamento e Flexbox. 
-- 👯 Estou procurando colaborar em ajudar empresas a melhorarem a experiência do usuário 
+- 👯 Estou procurando estágio na área de tecnologia para aprender, entender e refinar como aplicamos a prática tecnológica em nosso dia a dia 
 - 🤔  Estou procurando ajuda com dicas e críticas para melhoria e refinamento dos meus projetos
 - 📫 Moro no inteiror do Estado de Sp. Para falar comigo me manda um email ou mensagem no linkedin
 - 😄 Pronomes: ela-dela
